@@ -1,5 +1,5 @@
 // |---------------------------------------------------------|   
-// |                                                   v1.0b |                                          
+// |                                                   v1.1a |                                          
 // |                Summary Route Calculator                 |
 // |                                                         |
 // |                        By kaho 5/2015  www.kahopoon.net |
@@ -20,7 +20,7 @@ public class Calculator {
 	public static void main(String[] args) throws IOException
 	{
 		System.out.println("        ****************************************");
-		System.out.println("        *                                v1.0b *");
+		System.out.println("        *                                v1.1a *");
 		System.out.println("        *       Summary Route Calculator       *");
 		System.out.println("        *                                      *");
 		System.out.println("        ****************************************");
