@@ -16,8 +16,6 @@
 //  v1.2a
 //  - Function 'split' used. (Credit: Horace Ng, my tutor.)
 //
-//  v1.2b
-//  - Test for github.
 
 import java.io.*;
 
